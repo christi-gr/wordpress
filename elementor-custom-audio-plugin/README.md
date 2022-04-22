@@ -1,4 +1,4 @@
-Custom Audio Plugin, added widget to elemntor panel
+Elementor Custom Audio Player Widget for WP site
 
 
 Plugin In Elementor Panel            | Texts modification on player
